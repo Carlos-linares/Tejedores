@@ -12,6 +12,8 @@
 </head>
 
 <body>
+
+    <!-- Encabezado de la pagina  -->
     <header>
         <div class="seccion">
             <ul>
@@ -68,6 +70,7 @@
                 </li>
             </ul>
         </div>
+
         <div class="contenido-header">
             <div class="logo">
                 <img src="img/Logo.png" alt="Logo De la tienda">
@@ -108,22 +111,20 @@
     <div class="slider-frame">
         <ul>
             <li>
-                <img src="img/1.jpg">
+                <img src="img/img-slider-frame1.jpg">
             </li>
             <li>
-                <img src="img/2.jpg">
+                <img src="img/img-slider-frame2.jpg">
             </li>
             <li>
-                <img src="img/3.jpg">
+                <img src="img/img-slider-frame3.jpg">
             </li>
             <li>
-                <img src="img/4.jpg">
+                <img src="img/img-slider-frame4.jpg">
             </li>
         </ul>
     </div>
 
-
-    
     <div class="about">
         <h2>Nuestra Historia</h2>
         <p>Somos una plataforma dedicada a promover y preservar las artesanías locales. Nuestra misión es conectar a los amantes de las artesanías con los talentosos artesanos de nuestra comunidad. Creemos en la belleza y la autenticidad de las piezas hechas a mano, y queremos compartir esta pasión contigo.</p>
@@ -140,6 +141,7 @@
     </div>
 
 
+ <!-- ################## Pie de pagina  ###################### -->
     <footer class="footer-distributed">
 
         <div class="footer-left">
